@@ -1,3 +1,5 @@
+<?php
+
 function rndstr($laenge) 
 {
 	$str = "abcdefghijklmnopqrstuvwxyz0123456789";
@@ -6,3 +8,5 @@ function rndstr($laenge)
 	}
 	return $res;
 }
+
+?>
