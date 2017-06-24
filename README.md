@@ -2,4 +2,4 @@
 
 (2012)
 
-Create easily cusomizable strings effectively
+Creates cusomizable random strings.
