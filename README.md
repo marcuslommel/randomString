@@ -2,4 +2,4 @@
 
 (2012)
 
-Creates cusomizable random strings.
+Creates customizable random strings.
